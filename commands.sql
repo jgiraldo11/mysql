@@ -11,7 +11,7 @@ USE c11mysql;
 SHOW TABLES;
 
 /* Discribe Table */
-DISCRIBE table_name;
+DESCRIBE table_name;
 
 /* Select all data from table */
 SELECT * FROM table_name;
